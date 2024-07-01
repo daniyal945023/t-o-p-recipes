@@ -1,20 +1,66 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: orangered;
+}
+
+
+
 h1 {
     background-color: black;
     color: white;
     font-size: 37px;
     font-family:Arial, Helvetica, sans-serif;
     text-align: center;
+    padding: 18px;
+    display: inline-block;
+    margin-left: 13em;
+    border: 4px solid white;
+    
+    
+    
 }
 
 ul {
-    background-color: yellow;
+    background-color: gold;
     color: black;
-    font-family: Georgia, serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 24px;
     font-weight: bold;
+    padding-right: 18px;
+    margin: 20px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    border: 3px solid black;
+    
 }
 
-body {
-    background-color: orangered;
+
+
+a {
+    text-decoration: none;
+    color: black;
 }
+
+
+li {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+    
+    
+
+
+
+    
+
+
+
+
+
+
+
+
 
